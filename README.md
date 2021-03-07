@@ -13,3 +13,10 @@ COVID TRACKER is an all in one solution for any COVID info needs. It provides a 
 
 ## Video demo:
 
+
+## Top 5 desirable functions
+1. Real time assistance
+2. In app COVID PPE store
+3. Check local Vaccine availability
+4. Self report COVID case (needs verification)
+5. COVID diagnosis test appointment booker
