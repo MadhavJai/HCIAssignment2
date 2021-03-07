@@ -12,6 +12,7 @@ COVID TRACKER is an all in one solution for any COVID info needs. It provides a 
 
 
 ## Video demo:
+Watch a demonstration [here] (https://youtu.be/o3pXFh5zO6E)
 
 
 ## Top 5 desirable functions
