@@ -8,11 +8,8 @@ Link to Figma Design: https://www.figma.com/file/YOxeA9OwdfvaugT0YrhXrR/MadhavJa
 
 Screenshots:
 
-![image](https://user-images.githubusercontent.com/49799271/110236566-77b6d680-7f04-11eb-962b-351406bc1c9e.png)
+![image](https://user-images.githubusercontent.com/49799271/110236566-77b6d680-7f04-11eb-962b-351406bc1c9e.png) ![image](https://user-images.githubusercontent.com/49799271/110236569-7b4a5d80-7f04-11eb-8b06-5c7641a8439f.png) ![image](https://user-images.githubusercontent.com/49799271/110236572-800f1180-7f04-11eb-93b3-0daf2db7d83d.png)
 
-![image](https://user-images.githubusercontent.com/49799271/110236569-7b4a5d80-7f04-11eb-8b06-5c7641a8439f.png)
-
-![image](https://user-images.githubusercontent.com/49799271/110236572-800f1180-7f04-11eb-93b3-0daf2db7d83d.png)
 
 Video demo:
 
